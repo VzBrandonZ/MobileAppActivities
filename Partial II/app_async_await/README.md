@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## App screenshot
 
-A few resources to get you started if this is your first Flutter project:
+--------------
+### Primer Boton.
+-----------------
+<img src = "https://i.postimg.cc/fbWc1nhM/image.png" width = "200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Segundo Boton.
+---------------
+<img src = "https://i.postimg.cc/Df4q9PR4/image.png" width = "200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tercer Boton.
+---------------
+<img src = "https://i.postimg.cc/rwMxtXs5/image.png" width = "200">
