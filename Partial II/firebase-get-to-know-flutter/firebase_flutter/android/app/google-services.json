@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621616652028",
+    "project_id": "fir-flutter-mero",
+    "storage_bucket": "fir-flutter-mero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621616652028:android:6a9ee514180d22afa2c179",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621616652028-u0n346a119j2tgokpumbm3419cr3c86t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wIP-3mlX-LPCmXC69HFLRA0Imtl1m-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621616652028-u0n346a119j2tgokpumbm3419cr3c86t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
